@@ -1,9 +1,0 @@
-[submodule "GPSEnabledTrucksSimulator"]
-	path = GPSEnabledTrucksSimulator
-	url = https://github.com/juancarlosduenas/GPSEnabledTrucksSimulator.git
-[submodule "TraceServer0"]
-	path = TraceServer0
-	url = https://github.com/juancarlosduenas/TraceServer0.git
-[submodule "TransportationOrderServer0"]
-	path = TransportationOrderServer0
-	url = https://github.com/juancarlosduenas/TransportationOrderServer0.git
